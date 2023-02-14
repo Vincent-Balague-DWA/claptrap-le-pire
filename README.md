@@ -1,4 +1,4 @@
-![logo de l'arche](img\logo-arche.png)
+![logo de l'arche](img/logo-arche.png)
 # Claptrap
 _Le pire des PNJ_
 
@@ -20,7 +20,7 @@ Habituellement dôté d'une personnalité marquée, entre enthousiasme et solitu
 
 ## A quoi ressemble Claptrap ?
 
-![Image de Claptrap](img\claptrap.png)
+![Image de Claptrap](img/claptrap.png)
 
 A ca...
 
