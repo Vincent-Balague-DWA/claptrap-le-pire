@@ -8,6 +8,12 @@ Un Claptrap est un robot multifonction, fabriqué par Hyperion. Son appellation 
 
 Habituellement dôté d'une personnalité marquée, entre enthousiasme et solitude, entre fidélité et lâcheté, il fournit fréquemment des conseils et des missions aux Chasseurs de l'Arche. 
 
+## A quoi ressemble Claptrap ?
+
+![Image de Claptrap](img\claptrap.png)
+
+A ca...
+
 ## A quoi sert Claptrap ?
 
 A être __INSUPORTABLE__ ! Claptrap est littéralement là pour vous rendre fou ! Il ne s'arrette jamais de parler, chante, fait des blagues lourdes et est un vrai boulet ! Vous aller adorer detester ce petit robot !
