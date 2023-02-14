@@ -2,10 +2,7 @@
 # Claptrap
 _Le pire des PNJ_
 
-## Sommaire
-
 - [Claptrap](#claptrap)
-  - [Sommaire](#sommaire)
   - [Qui est Claptrap](#qui-est-claptrap)
   - [A quoi ressemble Claptrap ?](#a-quoi-ressemble-claptrap-)
   - [A quoi sert Claptrap ?](#a-quoi-sert-claptrap-)
