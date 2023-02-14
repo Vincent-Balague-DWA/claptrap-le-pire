@@ -2,7 +2,17 @@
 # Claptrap
 _Le pire des PNJ_
 
-## Qui est Claptrap
+## Sommaire
+
+- [Claptrap](#claptrap)
+  - [Sommaire](#sommaire)
+  - [Qui est Claptrap](#qui-est-claptrap)
+  - [A quoi ressemble Claptrap ?](#a-quoi-ressemble-claptrap-)
+  - [A quoi sert Claptrap ?](#a-quoi-sert-claptrap-)
+  - [Qui aime Claptrap ?](#qui-aime-claptrap-)
+  - [Notes](#notes)
+
+## Qui est Claptrap 
 
 Un Claptrap est un robot multifonction, fabriqué par Hyperion. Son appellation officielle par le fabricant est CL4P-TP, mais les habitants de Pandore ont l'habitude de l'appeler ainsi.
 
